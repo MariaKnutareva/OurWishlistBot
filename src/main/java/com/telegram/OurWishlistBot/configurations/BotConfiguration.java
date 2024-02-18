@@ -1,6 +1,6 @@
 package com.telegram.OurWishlistBot.configurations;
 
-import com.telegram.OurWishlistBot.Bot;
+import com.telegram.OurWishlistBot.model.Bot;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
